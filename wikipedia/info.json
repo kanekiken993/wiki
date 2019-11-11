@@ -1,0 +1,11 @@
+{
+    "name": "Wikipedia",
+    "author": [    ],
+    "short": "Look up articles on Wikipedia.",
+    "description": "Allows for looking up terms on Wikipedia, and having the results displayed in chat.",
+    "install_msg": "Thanks for installing Wikipedia!",
+    "tags": [
+        "utility",
+        "wiki"
+    ]
+}
